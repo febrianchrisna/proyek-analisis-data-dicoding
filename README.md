@@ -1,4 +1,4 @@
-# Customer Purchase Analysis Dashboard ✨
+# Dashboard Analisis Pembelian Pelanggan ✨
 
 ## Setup Environment - Shell/Terminal
 ```

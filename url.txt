@@ -1,1 +1,1 @@
-https://data-analyst-dicoding-projek.streamlit.app/
+https://proyek-febrian.streamlit.app/
